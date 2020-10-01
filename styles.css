@@ -1,0 +1,24 @@
+body {
+    background: lightgray;
+}
+
+h1 {
+    color: darkcyan;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#amount-due, #amount-received {
+    height: 20px;
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#calculate-change {
+    border: 3px solid darkcyan;
+    background: black;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:lightgray;
+}
+p {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
